@@ -1,0 +1,82 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{enumerate}
+
+\title{Infraestrutura Econômica no Brasil: Rodovias e Tráfego de Carros nas Cidades}
+\author{Jonas Gomes dos Santos e Andreza Pereira Silva}
+\date{5 de Outubro, 2023}
+
+\begin{document}
+
+\maketitle
+
+\section{Introdução}
+
+\begin{itemize}
+    \item Importância da infraestrutura econômica no desenvolvimento do Brasil.
+    \item Enfoque nas rodovias e no tráfego de carros nas cidades como elementos críticos.
+\end{itemize}
+
+\section{Desenvolvimento}
+
+\subsection{Rodovias no Brasil}
+
+\begin{enumerate}[1.]
+    \item \textbf{Malha Rodoviária Extensa:}
+    \begin{itemize}
+        \item Destaque para a extensão e abrangência da malha rodoviária brasileira.
+        \item Importância na conexão de regiões produtoras, centros de consumo e portos.
+    \end{itemize}
+
+    \item \textbf{Desafios na Manutenção:}
+    \begin{itemize}
+        \item Problemas decorrentes da falta de investimentos ao longo dos anos.
+        \item Impactos no aumento dos custos logísticos e no desenvolvimento regional.
+    \end{itemize}
+
+    \item \textbf{Necessidade de Investimentos:}
+    \begin{itemize}
+        \item Mencione programas como o Plano de Investimentos em Logística (PIL) e concessões de rodovias.
+        \item Destaque a importância de investimentos contínuos para melhorar a infraestrutura rodoviária.
+    \end{itemize}
+\end{enumerate}
+
+\subsection{Tráfego de Carros nas Cidades}
+
+\begin{enumerate}[4.]
+    \item \textbf{Congestionamentos Urbanos:}
+    \begin{itemize}
+        \item Descrição dos congestionamentos crônicos nas cidades brasileiras.
+        \item Impactos na economia devido à perda de tempo e produtividade.
+    \end{itemize}
+
+    \item \textbf{Soluções para Mobilidade Urbana:}
+    \begin{itemize}
+        \item Investimentos em sistemas de transporte público eficientes (metrô, ônibus rápidos).
+        \item Expansão de ciclovias e estímulo ao uso de bicicletas.
+    \end{itemize}
+
+    \item \textbf{Políticas de Gestão de Tráfego:}
+    \begin{itemize}
+        \item Destaque para medidas de gestão de tráfego, como rodízio de veículos e controle de estacionamento.
+        \item Incentivo ao uso de transporte público e compartilhado.
+    \end{itemize}
+\end{enumerate}
+
+\subsection{Impacto na Economia Brasileira}
+
+\begin{itemize}
+    \item Competitividade e Atração de Investimentos:
+    \begin{itemize}
+        \item Explicação de como melhorar a infraestrutura rodoviária e reduzir o congestionamento urbano pode tornar o Brasil mais atraente para investimentos estrangeiros.
+    \end{itemize}
+\end{itemize}
+
+\section{Conclusão}
+
+\begin{itemize}
+    \item Resumo da importância da infraestrutura econômica, destacando a necessidade de investimentos contínuos.
+    \item Enfatize a importância de uma abordagem integrada que combine melhorias nas rodovias e na mobilidade urbana para impulsionar o desenvolvimento econômico e a qualidade de vida no Brasil.
+\end{itemize}
+
+\end{document}
