@@ -1,0 +1,133 @@
+\documentclass{beamer}
+\usepackage[brazil]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+
+% Configuração do tema da UNEB
+\usetheme{Madrid}
+\definecolor{unebblue}{RGB}{0, 103, 179}
+\setbeamercolor{structure}{fg=unebblue}
+\setbeamercolor{block title}{fg=white,bg=unebblue}
+\setbeamercolor{block body}{bg=unebblue!20}
+
+% Configuração do título
+\title{Infraestrutura Econômica do Brasil}
+\author{Andreza Pereira e Jonas G Santos}
+\institute{UNEB - Universidade do Estado da Bahia}
+\date{11 de Outubro de 2023}
+
+% Adicione a logo da UNEB
+\titlegraphic{\includegraphics[width=2cm]{uneb logo.png}}
+
+\begin{document}
+
+\begin{frame}
+  \titlepage
+\end{frame}
+
+\begin{frame}{Introdução}
+  % Conteúdo do slide de introdução
+  Este estudo aborda a infraestrutura econômica no Brasil, um elemento crucial para o desenvolvimento e o bem-estar da nação. Exploramos os principais setores de infraestrutura no país, destacando sua importância e estado atual. Ao enfrentar desafios como falta de investimento, corrupção e burocracia, buscamos entender como a infraestrutura impacta a economia e a qualidade de vida dos brasileiros.
+
+\begin{figure}[b]
+    \centering
+    \includegraphics[width=0.5\textwidth]{infraestrutura rodoviaria.jpg} 
+    \caption{Infraestrutura Rodoviária}
+    \label{fig:infraestrutura_rodoviaria.png}
+\end{figure}
+
+\end{frame}
+
+\begin{frame}{Introdução}
+
+Além disso, analisamos iniciativas governamentais e parcerias público-privadas que visam melhorar a infraestrutura, identificando oportunidades para seu aprimoramento. Este estudo se concentra em fornecer insights relevantes e recomendações práticas para impulsionar o desenvolvimento sustentável da infraestrutura no Brasil.
+
+\begin{figure}[b]
+    \centering
+    \includegraphics[width=0.3\textwidth]{ferrovia.png} 
+    \caption{Infraestrutura Ferroviaria}
+    \label{fig:infraestrutura_Ferroviaria.png}
+\end{figure}
+
+\end{frame}
+\begin{frame}{Rodovias}
+    As rodovias no Brasil compõem a principal rede de transporte terrestre do país, com uma extensão total de 1,72 milhão de quilômetros. No entanto, a qualidade e manutenção dessas rodovias são precárias, com apenas 12,4\% delas pavimentadas. Essa situação precária tem impactos significativos na logística e no transporte de mercadorias, levando a problemas de eficiência, segurança e custos. A falta de investimento e a necessidade de melhorias nas rodovias brasileiras são desafios críticos a serem enfrentados para impulsionar o desenvolvimento econômico e a qualidade de vida no país.
+
+    \begin{figure}[b]
+    \centering
+    \includegraphics[width=0.3\textwidth]{rodovia.jpg} 
+    \caption{Rodovia Gov.Jorge Lacerda}
+    \label{fig:rodovia}
+\end{figure}
+\end{frame}
+\begin{frame}{Ferrovias}
+
+As ferrovias no Brasil enfrentam desafios significativos em termos de extensão e qualidade em comparação com outras nações. Com uma malha ferroviária relativamente pequena de apenas 29.165 km, o país enfrenta dificuldades em atender às demandas de transporte de cargas. Isso é acentuado pela falta de investimento e manutenção adequada, resultando em um sistema ferroviário precário em comparação com nações com infraestrutura mais desenvolvida. Essa precariedade nas ferrovias impacta a eficiência logística e a competitividade do Brasil no mercado global.
+
+\end{frame}
+\begin{frame}
+    
+
+\begin{figure}[b]
+    \centering
+    \includegraphics[width=0.6\textwidth]{Mapa-Site-A3_VF_28-07-23-2.png} 
+    \caption{Mapa Ferroviario}
+    \label{fig:infraestrutura_Ferroviaria.png}
+\end{figure}
+\end{frame}
+\begin{frame}{Infraestrutura Naval}
+    As hidrovias e infraestruturas portuárias desempenham um papel fundamental na logística e no comércio internacional do Brasil. O país possui uma extensa rede de rios navegáveis, tornando as hidrovias uma opção atraente para o transporte de mercadorias. No entanto, a falta de investimento e manutenção adequada nessas hidrovias limita seu pleno potencial. Além disso, os portos brasileiros frequentemente enfrentam problemas de congestionamento e infraestrutura obsoleta, prejudicando a eficiência do comércio exterior. Melhorias nesses setores são essenciais para facilitar o transporte de mercadorias e promover o crescimento econômico no Brasil.
+    \begin{figure}[b]
+    \centering
+    \includegraphics[width=0.6\textwidth]{porto salvador.jpg} 
+    \caption{Porto de Salvador}
+    \label{fig:porto.png}
+\end{figure}
+\end{frame}
+\begin{frame}{Justificativa}
+  % Conteúdo do slide de justificativa
+  Esse Projeto de pesquisa foi realizado por conta da grande importância que esse tema trás e devido a situação que se encontra a atual infraestrutura brasileira
+  
+\end{frame}
+
+\begin{frame}{Referencial Teórico}
+  % Conteúdo do slide de referencial teórico
+  Raúl Prebisch: Desenvolveu a "Teoria da Dependência", enfatizando a necessidade de diversificar a economia para alcançar crescimento sustentável.
+
+Luiz Carlos Bresser Pereira: Destacou a importância da gestão pública eficiente e parcerias público-privadas para superar desafios como corrupção e burocracia.
+
+Edison Lobão e Helder Barbalho: Autores do livro "Infraestrutura no Brasil: Desafios e Oportunidades", abogaram por atrair investimentos privados e parcerias para melhorar a infraestrutura.
+
+Celso Furtado: Enfatizou a importância da infraestrutura no desenvolvimento econômico e social do Brasil.
+
+Edmar de Almeida: Focado nas questões energéticas, ressaltou a necessidade de um setor de energia eficiente e sustentável no país.
+
+Essas perspectivas coletivas fornecem uma compreensão abrangente da importância da infraestrutura no Brasil e indicam soluções potenciais para os desafios enfrentados.
+\end{frame}
+
+\begin{frame}{Metodologia}
+  % Conteúdo do slide de metodologia
+ desenvolvimento dessa pesquisa científica será utilizado os seguintes passos:\\
+1. Investigação teórica do problema proposto, por meio de leitura e revisão de bibliografias diversas que discorrem sobre o tema, como livros, artigos, dissertações, entre outros. Utilizando sempre fontes confiáveis.\\
+2. Entrevistar profissionais atuantes na construção civil para coleta de dados sobre o uso de tecnologias de informação nas suas respectivas funções.\\
+3. Analisar e realizar o tratamento desses dados.\\
+4. Elaborar a pesquisa científica, sempre retomando aos passos anteriores quando for necessário.
+\end{frame}
+
+\begin{frame}{Referências}
+  % Conteúdo do slide de referências
+ Reformas econômicas em democracias novas: uma proposta social-democrata de Luiz Carlos Bresser-Pereira\\
+ \\
+Prebish por Dosman\\
+\\
+THE ECONOMIC DEVELOPMENT OF LATIN AMERICA: and its problems - Comissão Economica para a America Latina (CEPAL)\\
+\\
+Infraestrutura no Brasil: Desafios e Oportunidades -  Edison Lobão e Helder Barbalho\\
+\\
+Energia no Brasil: Para Quê? - Edmar de Almeida e José Rosenblatt\\
+\\
+"Desenvolvimento e Subdesenvolvimento" - Celso Furtato
+
+\end{frame}
+
+\end{document}
